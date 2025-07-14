@@ -14,7 +14,7 @@ React Icons - Ícones modernos para a interface
 
 Backend
 
-Node.js - Runtime JavaScript
+Node.js - Runtime JavaScript "\n"
 Express.js - Framework web minimalista
 MongoDB - Banco de dados NoSQL
 Prisma ORM - ORM moderno e type-safe
